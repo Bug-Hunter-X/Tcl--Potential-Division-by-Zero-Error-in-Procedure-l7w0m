@@ -1,0 +1,1 @@
+This repository contains a simple Tcl procedure that demonstrates a potential division-by-zero error.  The original code lacks proper error handling for the case where the divisor is zero. A corrected version is provided to illustrate best practices.
